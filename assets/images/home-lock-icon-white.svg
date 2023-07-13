@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88.502" height="81.854" viewBox="0 0 88.502 81.854">
+  <g id="Group_262" data-name="Group 262" transform="translate(4.917 3.5)">
+    <g id="Group_261" data-name="Group 261">
+      <path id="Path_224" data-name="Path 224" d="M907.837,2088.951v46.888h67.455v-46.888" transform="translate(-902.234 -2060.985)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      <path id="Path_225" data-name="Path 225" d="M901.686,2090.777l39.867-31.535,38.8,31.535" transform="translate(-901.686 -2059.242)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+    </g>
+    <path id="Icon_weather-thermometer-exterior" data-name="Icon weather-thermometer-exterior" d="M11.892,32.484a8.691,8.691,0,0,1,1.021-4.117,8.824,8.824,0,0,1,2.854-3.183V8.025A4.9,4.9,0,0,1,20.7,3.06a4.9,4.9,0,0,1,4.965,4.947v17.16A8.917,8.917,0,0,1,28.5,28.35a8.626,8.626,0,0,1,1,4.117,8.744,8.744,0,0,1-1.176,4.428,8.608,8.608,0,0,1-3.2,3.2,8.844,8.844,0,0,1-12.057-3.2A8.513,8.513,0,0,1,11.892,32.484Zm3.044,0a5.7,5.7,0,0,0,1.7,4.134,5.527,5.527,0,0,0,4.082,1.713A5.8,5.8,0,0,0,23.5,27.381l-.484-.242a.481.481,0,0,1-.259-.5V8.025a1.856,1.856,0,0,0-.588-1.4A2.1,2.1,0,0,0,20.7,6.07a2.072,2.072,0,0,0-1.436.554,1.8,1.8,0,0,0-.588,1.4V26.6a.5.5,0,0,1-.242.5l-.467.242a5.509,5.509,0,0,0-2.231,2.128A5.8,5.8,0,0,0,14.936,32.484Z" transform="translate(18.634 19.794)" fill="#fff"/>
+  </g>
+</svg>
